@@ -1,3 +1,3 @@
 # R.Nazir
-this is my git-hub respository
-this is Md Gulam Gouse
+This is my GitHub repository
+This is Md Gulam Gouse
